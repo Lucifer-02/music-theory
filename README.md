@@ -1,7 +1,7 @@
 # music-theory
 Build a solid musical foundation for a long-term vision
 # Outline
-- [ ] Introduction
+- [x] Introduction
 - [ ] How Should You Use This Book?
 - [ ] 1. The Musical Alphabet
 - [ ] 2. Tones and Semitones
