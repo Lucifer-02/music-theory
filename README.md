@@ -3,7 +3,7 @@ Build a solid musical foundation for a long-term vision
 # Outline
 - [x] Introduction
 - [x] How Should You Use This Book?
-- [ ] 1. The Musical Alphabet
+- [x] 1. The Musical Alphabet
 - [ ] 2. Tones and Semitones
 - [ ] 3. Major Scale
 - [ ] 4. Major and Minor Triads.
