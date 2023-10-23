@@ -6,7 +6,7 @@ Build a solid musical foundation for a long-term vision
 - [x] 1. The Musical Alphabet
 - [x] 2. Tones and Semitones
 - [x] 3. Major Scale
-- [ ] 4. Major and Minor Triads.
+- [x] 4. Major and Minor Triads.
 - [ ] 5. Major Scale Intervals
 - [ ] 6. Chromatic Intervals.
 - [ ] 7. Major Keys (Part 1)
